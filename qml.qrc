@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fft.cpp</file>
+        <file>fft.h</file>
+        <file>fftcalc.cpp</file>
+        <file>fftcalc.h</file>
+    </qresource>
+</RCC>
